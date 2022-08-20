@@ -1,0 +1,3 @@
+- mempelajari html
+- mempelajari css
+- mempelajari php
