@@ -2,4 +2,4 @@
 - mempelajari css
 - mempelajari php
 - mempelajari javascript
-- mempelajari c#
+
